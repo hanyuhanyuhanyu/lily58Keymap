@@ -81,8 +81,8 @@ KC_LCTRL,      KC_A,     KC_O,    KC_E,    KC_U,   KC_I,                        
  */
 [_LOWER] = LAYOUT( \
   _______, _______, _______, _______, _______, _______,                   _______, _______, _______,_______, _______, _______,\
-  _______, _______, _______, _______, _______, _______,                    KC_HOME, KC_PGUP, KC_UP, KC_PGDN, KC_END, _______, \
-   KC_GRV, _______, _______, _______, _______, _______,                   KC_LBRC, KC_LEFT, KC_DOWN, KC_RGHT, KC_RBRC, _______, \
+  _______, _______, _______, _______, _______, _______,                    KC_PGUP, KC_HOME, KC_UP, KC_END, KC_PGDN, _______, \
+   KC_GRV, KC_LBRC, KC_RBRC, KC_LCBR, KC_RCBR, _______,                   KC_GRV, KC_LEFT, KC_DOWN, KC_RGHT, KC_BSLS, _______, \
   KC_F1,   KC_F2,   KC_F3,   KC_F4,   KC_F5,   KC_F6,   _______, _______,  KC_F7,   KC_F8,   KC_F9,   KC_F10,  KC_F11,  KC_F12, \
                              _______, _______, _______, _______, _______,  KC_DEL, _______, _______\
 ),
